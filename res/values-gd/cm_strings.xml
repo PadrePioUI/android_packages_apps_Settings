@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017-2023 The LineageOS Project
+     Copyright (C) 2017-2023 The PadrePioUI Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Tagh solaraiche nan lethbhreacan-glèidhidh</string>
     <string name="berry_black_theme_title">Dubh</string>
     <string name="berry_black_theme_summary">Cleachd cùlaibh dubh leis an ùrlar dhorcha</string>
-    <string name="lineagelicense_title">Sgrìobhainnean laghail LineageOS</string>
+    <string name="lineagelicense_title">Sgrìobhainnean laghail PadrePioUI</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Tha thu <xliff:g id="step_count">%1$d</xliff:g> cheum air falbh o bhith a’ cur an comas roghainnean an luchd-leasachaidh.</item>
         <item quantity="two">Tha thu <xliff:g id="step_count">%1$d</xliff:g> cheum air falbh o bhith a’ cur an comas roghainnean an luchd-leasachaidh.</item>

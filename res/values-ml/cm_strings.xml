@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017-2023 The LineageOS Project
+     Copyright (C) 2017-2023 The PadrePioUI Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineagelicense_title">LineageOS ലീഗല്‍</string>
+    <string name="lineagelicense_title">PadrePioUI ലീഗല്‍</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">ഡെവലപ്പ്മെന്റ് ക്രമീകരണങ്ങൾ പ്രാപ്തമാക്കുന്നതിന് നിങ്ങള്‍ %1$d ഘട്ടം അകലെയാണ്.</item>
         <item quantity="other">ഡെവലപ്പ്മെന്റ് ക്രമീകരണങ്ങൾ പ്രാപ്തമാക്കുന്നതിന് നിങ്ങള്‍ <xliff:g id="step_count">%1$d</xliff:g> ഘട്ടങ്ങൾ അകലെയാണ്.</item>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017-2023 The LineageOS Project
+     Copyright (C) 2017-2023 The PadrePioUI Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="keyboard_extras_title">Dodatno</string>
     <string name="advanced_keyboard_settings_title">Napredne postavke</string>
-    <string name="lineagelicense_title">LineageOS licenca</string>
+    <string name="lineagelicense_title">PadrePioUI licenca</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Sada ste <xliff:g id="step_count">%1$d</xliff:g> korak od omogućavanja razvojnih postavki.</item>
         <item quantity="few">Sada ste <xliff:g id="step_count">%1$d</xliff:g> koraka od omogućavanja razvojnih postavki.</item>

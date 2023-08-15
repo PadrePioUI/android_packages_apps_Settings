@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017-2023 The LineageOS Project
+     Copyright (C) 2017-2023 The PadrePioUI Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Chọn nơi lưu trữ dữ liệu sao lưu</string>
     <string name="berry_black_theme_title">Đen tuyền</string>
     <string name="berry_black_theme_summary">Nền đen tuyền cho chủ đề tối</string>
-    <string name="lineagelicense_title">Bộ phận pháp chế của LineageOS</string>
+    <string name="lineagelicense_title">Bộ phận pháp chế của PadrePioUI</string>
     <string name="device_info_protected_single_press">Chạm để hiển thị thông tin</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="other">Hiện tại bạn còn <xliff:g id="step_count">%1$d</xliff:g> bước nữa để bật cài đặt nhà phát triển.</item>

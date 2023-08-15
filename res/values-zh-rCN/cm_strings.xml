@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017-2023 The LineageOS Project
+     Copyright (C) 2017-2023 The PadrePioUI Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@
     <string name="backup_transport_title">选择备份提供商</string>
     <string name="berry_black_theme_title">纯黑色</string>
     <string name="berry_black_theme_summary">暗色主题使用纯黑色背景</string>
-    <string name="lineagelicense_title">LineageOS 法律信息</string>
+    <string name="lineagelicense_title">PadrePioUI 法律信息</string>
     <string name="device_info_protected_single_press">点击以显示信息</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="other">还需 <xliff:g id="step_count">%1$d</xliff:g> 步就可以启用开发者选项。</item>

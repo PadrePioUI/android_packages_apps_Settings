@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017-2023 The LineageOS Project
+     Copyright (C) 2017-2023 The PadrePioUI Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@
     <string name="adb_enable_summary_root">Permite la execución de la depuración d\'Android como root</string>
     <string name="berry_black_theme_title">Prietu puro</string>
     <string name="berry_black_theme_summary">Un fondu en prieto puro pal estilu «Escuridá»</string>
-    <string name="lineagelicense_title">Información llegal de LineageOS</string>
+    <string name="lineagelicense_title">Información llegal de PadrePioUI</string>
     <string name="device_info_protected_single_press">Toca equí p\'amosar la información</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Quédate <xliff:g id="step_count">%1$d</xliff:g> toque p\'activar la configuración de desendolcu.</item>

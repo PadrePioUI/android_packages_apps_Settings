@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017-2023 The LineageOS Project
+     Copyright (C) 2017-2023 The PadrePioUI Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Vali varunduste pakkuja</string>
     <string name="berry_black_theme_title">Täiesti must</string>
     <string name="berry_black_theme_summary">Täiesti must taust tumeda teema jaoks</string>
-    <string name="lineagelicense_title">LineageOS juriidiline info</string>
+    <string name="lineagelicense_title">PadrePioUI juriidiline info</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Olete <xliff:g id="step_count">%1$d</xliff:g> sammu kaugusel arendussätete lubamisest.</item>
         <item quantity="other">Olete <xliff:g id="step_count">%1$d</xliff:g> sammu kaugusel arendussätete lubamisest.</item>

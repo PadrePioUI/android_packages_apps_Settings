@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017-2023 The LineageOS Project
+     Copyright (C) 2017-2023 The PadrePioUI Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Veldu öryggisafritunarveitu</string>
     <string name="berry_black_theme_title">Hreint svart</string>
     <string name="berry_black_theme_summary">Hreinn svartur bakgrunnur í dökku þema</string>
-    <string name="lineagelicense_title">Lagalegir fyrirvarar LineageOS</string>
+    <string name="lineagelicense_title">Lagalegir fyrirvarar PadrePioUI</string>
     <string name="device_info_protected_single_press">Ýttu til þess að birta upplýsingar</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Þú ert núna <xliff:g id="step_count">%1$d</xliff:g> skref frá því að virkja þróunarstillingar.</item>

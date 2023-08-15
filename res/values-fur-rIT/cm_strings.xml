@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017-2023 The LineageOS Project
+     Copyright (C) 2017-2023 The PadrePioUI Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Selezione un gjestôr dai backups</string>
     <string name="berry_black_theme_title">Neri pûr</string>
     <string name="berry_black_theme_summary">Fonts neri pûr pal teme scûr</string>
-    <string name="lineagelicense_title">Notis legâls di LineageOS</string>
+    <string name="lineagelicense_title">Notis legâls di PadrePioUI</string>
     <string name="device_info_protected_single_press">Tocje par mostrâ informazions</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Ti mancje <xliff:g id="step_count">%1$d</xliff:g> passaç par ativâ lis impostazions di disvilup.</item>
